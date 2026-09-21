@@ -1,0 +1,27 @@
+# rttl-notebooks basics
+conda-tree
+# r packages
+gdal
+r-essentials
+r-ncdf4
+r-devtools
+r-tidyverse
+r-patchwork
+r-janitor
+r-rmarkdown
+r-knitr
+r-writexl
+r-svglite
+r-pkgdown
+r-boot
+r-e1071
+r-pwr
+r-effectsize
+r-dunn.test
+r-emmeans
+# prerequisites to sdm
+r-terra
+r-raster
+r-units
+r-sf
+r-leaflet
